@@ -41,15 +41,77 @@ The goals for this course are to:
 * Develop in--depth knowledge about a particular topic within the
   broad field of environmental policy. 
 
-# Required Readings
-
-There are no required textbooks for this class, however there is a somewhat heavy reading load. All readings will be made available on [OAKS](https://lms.cofc.edu/). 
-
 # Course Requirements and Grading
 
 # Course Outline and Schedule
 
+__SUBJECT TO CHANGE__. Check the [course website](http://mnowlin.github.io/poli307) often for updates. 
+There are no required textbooks for this class, however there is a somewhat heavy reading load. Journal article links  are provided and book chapters will be made available on [OAKS](https://lms.cofc.edu/). 
+
 ## I. Micro-foundations
 
-### Date: Introduction and Course Overview
+### Jan 13th--15th: Introduction and Course Overview
+
+* Reading 1
+
+### Jan 20--22th:
+
+* Reading 1
+
+### Jan 27th--29th:
+
+* Reading
+
+### Feb 3rd--5th:
+
+* Reading
+
+### Feb 10th--12th:
+
+* Reading
+
+### Feb 17th--19th:
+
+* Reading
+
+### Feb 24th--26th:
+
+* Reading
+
+### Feb 26th: Midterm
+
+### March 1st--8th: Spring Break
+
+### March 10th--12th:
+
+* Reading
+
+### March 17th--19th:
+
+* Reading
+
+### March 24th--26th:
+
+* Reading
+
+### March 31st:
+
+* Reading
+
+### April 2nd: No Class
+
+### April 7th--9th:
+
+* Reading
+
+### April 14th--16th:
+
+* Reading
+
+### April 21st--23rd:
+
+* Reading
+
+
+
 
