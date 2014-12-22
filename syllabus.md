@@ -43,30 +43,6 @@ The goals for this course are to:
 
 # Required Readings
 
-There are no required textbooks for this class, however there is a somewhat heavy reading load. All readings will be made available on OAKS. 
-
-# * Develop an understanding of the evolution of environmental
-  policy and politics in the U.S. 
-
-* Develop an understanding of the major policymaking institutions
-  including the Congress, the President, Executive Agencies, the
-  Courts, and their role in environmental policymaking. 
-
-* Develop an understanding of the process of policymaking in the
-  U.S. with regard to environmental issues. 
-
-* Develop an understanding of how science is used (or not) in the
-  environmental policy making process. 
-
-* Develop an understanding of how basic principles of economics
-  can be used in the design of policies to address environmental
-  issues. 
-
-* Develop in--depth knowledge about a particular topic within the
-  broad field of environmental policy. 
-
-# Required Readings
-
 There are no required textbooks for this class, however there is a somewhat heavy reading load. All readings will be made available on [OAKS](https://lms.cofc.edu/). 
 
 # Course Requirements and Grading
