@@ -48,15 +48,19 @@ The goals for this course are to:
 __SUBJECT TO CHANGE__. Check the [course website](http://mnowlin.github.io/poli307) often for updates. 
 There are no required textbooks for this class, however there is a somewhat heavy reading load. Journal article links  are provided and book chapters will be made available on [OAKS](https://lms.cofc.edu/). 
 
-## I. Micro-foundations
+## I. Laying the Groundwork 
 
 ### Jan 13th--15th: Introduction and Course Overview
 
-* Reading 1
+* Layzer, Judith A. 2012. "Introduction", __Chapter 1__ in _The Environmental Case: Translating Values into Policy_. CQ Press, Washington D.C. 3rd Ed. 
 
-### Jan 20--22th:
+### Jan 20th--22th: Values and Value Conflict 
 
-* Reading 1
+* Jones, Michael D. 2011. ["Leading the Way to Compromise? Cultural Theory and Climate Change Opinion."](http://dx.doi.org/10.1017/S104909651100134X) PS: Political Science & Politics 44 (04): 720–25.
+
+* Dunlap, Riley E., Kent D. Van Liere, Angela G. Mertig, and Robert Emmet Jones. 2000. ["New Trends in Measuring Environmental Attitudes: Measuring Endorsement of the New Ecological Paradigm: A Revised NEP Scale."](http://onlinelibrary.wiley.com/doi/10.1111/0022-4537.00176/abstract) Journal of Social Issues 56 (3): 425–42.
+
+* [The Lorax](https://www.youtube.com/watch?v=8V06ZOQuo0k)
 
 ### Jan 27th--29th:
 
