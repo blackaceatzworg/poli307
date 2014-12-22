@@ -19,3 +19,16 @@ html {
     width: 100%;
     padding-bottom: 5px;
 }
+/* Use larger header for page titles */
+h1.page-title {
+    font-size: 48px;
+}
+/* Reduce size of description list descriptions */
+@media (min-width: 768px) {
+    .dl-horizontal dt {
+        width: 100px;
+    }
+    .dl-horizontal dd {
+        margin-left: 120px;
+    }
+}
