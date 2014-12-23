@@ -100,7 +100,9 @@ _Institutions are defined as the "rules of the game", how do these rules influen
 
 _How does polarization in Congress impact environmental policymaking?  What is the role of the president in environmental policy?_ 
 
-* Shipan, Charles R., and William R. Lowry. 2001. ["Environmental Policy and Party Divergence in Congress."](http://prq.sagepub.com/content/54/2/245.short) _Political Research Quarterly_ 54(2): 245–63.
+* Shipan, Charles R., and William R. Lowry. 2001. ["Environmental Policy and Party Divergence in Congress."](http://prq.sagepub.com/content/54/2/245.short) _Political Research Quarterly_ 54(2): 245–263.
+
+* Hird, John A. 1993. ["Congressional Voting on Superfund: Self-Interest or Ideology?"](http://www.jstor.org/stable/30026841) _Public Choice_ 77(2): 333–357.
 
 * Vig, Norman J. 2013. "Presidential Power and Environmental Policy", __Chapter 4__ in _Environmental Policy: New Directions for the 21st Century_. eds. Michael E. Kraft and Norman J. Vig. CQ Press, Washington D.C. 8th Ed., pgs. 84--108
 
@@ -108,15 +110,13 @@ _How does polarization in Congress impact environmental policymaking?  What is t
 
 _What is the role of the bureaucracy in environmental policy?  How does the bureaucracy interact with Congress and the president when making environmental policy?_ 
 
+* Rosenbaum, Walter A. 2014. "Command and Control in Action: Air and Water Pollution Regulation", __Chapter 6__ in _Environmental Politics and Policy_. CQ Press, Washington D.C. 9th Ed., pgs. 197--238
+
 * Rosenbaum, Walter A. 2013. "Science, Politics, and Policy at the EPA", __Chapter 7__ in _Environmental Policy: New Directions for the 21st Century_. eds. Michael E. Kraft and Norman J. Vig. CQ Press, Washington D.C. 8th Ed., pgs. 158--187
 
 * Rinfret, Sara R. 2011. ["Frames of Influence: U.S. Environmental Rulemaking Case Studies."](http://onlinelibrary.wiley.com/doi/10.1111/j.1541-1338.2011.00493.x/abstract) _Review of Policy Research_ 28(3): 231–46.
 
 * Wood, B. Dan, and Richard W. Waterman. 1993. ["The Dynamics of Political-Bureaucratic Adaptation."](http://www.jstor.org/stable/2111382) _American Journal of Political Science_ 37(2): 497–528.
-
-* [The EPA](http://www.epa.gov/)
-
-* [Regulations.gov](http://www.regulations.gov/)
 
 ### Feb 24th--26th: The Courts 
 
@@ -132,37 +132,75 @@ _How do the courts influence environmental policy? How do they engage with other
 
 ### March 1st--8th: Spring Break
 
-## III. Policymaking System 
+## III. Policymaking System and Process
 
-### March 10th--12th:
+### March 10th--12th: System and Actors: Political Economy and Public Opinion 
 
-* Reading
+_Policy is not made only by siloed institutions, but within a system of mulitple institutions and policy actors. Within the policymaking system, do interest groups influence policy? If so, how? Does public opinion influence policymaking?_ 
 
-### March 17th--19th:
+* Oates, Wallace E. and Paul R. Portney. 2003. ["The Political Economy of Environmental Policy" PDF](https://www.econ.umd.edu/research/papers/360/download/209), __Chapter 8__ in _Handbook of Environmental Economics Volume 1_. eds. Karl-Goran Maler and Jeffrey R. Vincent.
 
-* Reading
+* Johnson, Martin, Paul Brace, and Kevin Arceneaux. 2005. ["Public Opinion and Dynamic Representation in the American States: The Case of Environmental Attitudes."](http://onlinelibrary.wiley.com/doi/10.1111/j.0038-4941.2005.00292.x/abstract) _Social Science Quarterly_ 86(1): 87–108.
 
-### March 24th--26th:
+### March 17th--19th: Agenda Setting 
 
-* Reading
+_What is the policymaking agenda? How do environmental issues get on the agenda?_ 
 
-### March 31st:
+* Clark, Brad T. 2004. ["Agenda Setting and Issue Dynamics: Dam Breaching on the Lower Snake River."](http://www.tandfonline.com/doi/abs/10.1080/08941920490466567#.VJjmzsCA) _Society and Natural Resources_ 17(7): 599–609.
 
-* Reading
+* Pralle, Sarah B. 2009. ["Agenda-Setting and Climate Change."](http://www.tandfonline.com/doi/abs/10.1080/09644010903157115#.VJjk2sCA) _Environmental Politics_ 18(5): 781–99.
+
+* Liu, Xinsheng, Eric Lindquist, and Arnold Vedlitz. 2011. ["Explaining Media and Congressional Attention to Global Climate Change, 1969-2005: An Empirical Test of Agenda-Setting Theory."](http://prq.sagepub.com/content/64/2/405.abstract) _Political Research Quarterly_ 64(2): 405–19.
+
+### March 24th--26th: Subsystems, Coalitions, and Environmental Policy
+
+_Policy choices are made by multiple policymakers within and across multiple policy subsystems. What are policy subsystems and how is policy made within them? Who participates in policy subsystems?_ 
+
+* Ellison, Brian A. 1998. ["The Advocacy Coalition Framework and Implementation of the Endangered Species Act: A Case Study in Western Water Politics."](http://onlinelibrary.wiley.com/doi/10.1111/j.1541-0072.1998.tb01922.x/abstract) _Policy Studies Journal_ 26(1): 11–29.
+
+* Elgin, Dallas J., and Christopher M. Weible. 2013. ["A Stakeholder Analysis of Colorado Climate and Energy Issues Using Policy Analytical Capacity and the Advocacy Coalition Framework."](http://onlinelibrary.wiley.com/doi/10.1111/ropr.12005/abstract?deniedAccessCustomisedMessage=&userIsAuthenticated=false) _Review of Policy Research_ 30(1): 114–33.
+
+### March 31st: Federalism and Environmental Policy
+
+_How do states and the federal government interact in environmental policy?_ 
+
+* Rabe, Barry G. 2013. "Racing to the Top, the Bottom, or the Middle of the Pack? The Evolving State Government Role in Environmental Protection", __Chapter 2__ in _Environmental Policy: New Directions for the 21st Century_. eds. Michael E. Kraft and Norman J. Vig. CQ Press, Washington D.C. 8th Ed., pgs. 30--53
+ 
+* "The New Era of Climate Federalism" [Brookings](http://www.brookings.edu/blogs/fixgov/posts/2014/06/02-new-epa-climate-federalism-rabe)
 
 ### April 2nd: No Class
 
-### April 7th--9th:
+### April 7th--9th: Science and Environmental Risk 
 
-* Reading
+_What is the role of science in environmental policy? How are risks understood by experts and the public?_ 
 
-### April 14th--16th:
+* Rosenbaum, Walter A. 2014. "Common Policy Challenges: Risk Assessment and Environmental Justice", __Chapter 4__ in _Environmental Politics and Policy_. CQ Press, Washington D.C. 9th Ed., pgs. 129--159
 
-* Reading
+* Kasperson, Roger E., Ortwin Renn, Paul Slovic, Halina S. Brown, Jacque Emel, Robert Goble, Jeanne X. Kasperson, and Samuel Ratick. 1988. ["The Social Amplification of Risk: A Conceptual Framework."](http://onlinelibrary.wiley.com/doi/10.1111/j.1539-6924.1988.tb01168.x/abstract) _Risk Analysis_ 8(2): 177–87.
 
-### April 21st--23rd:
+* Silva, Carol L., and Jenkins-Smith Hank C. 2007. ["The Precautionary Principle in Context: U.S. and E.U. Scientists’ Prescriptions for Policy in the Face of Uncertainty."](http://onlinelibrary.wiley.com/doi/10.1111/j.1540-6237.2007.00476.x/abstract) _Social Science Quarterly_ 88(3): 640–64.
 
-* Reading
+## IV. Environmental Economics 
+
+### April 14th--16th: Benefit-Cost Analysis 
+
+* Rosenbaum, Walter A. 2014. "More Choice: The Battle over Regulatory Economics", __Chapter 5__ in _Environmental Politics and Policy_. CQ Press, Washington D.C. 9th Ed., pgs. 165--193
+
+* Keohane, Nathaniel O. and Shelia M. Olmstead. 2007. "Economic Efficiency and Environmental Protection", __Chapter 2__ in _Markets and the Environment_. Island Press, Washington D.C. pgs. 11--30
+
+* Keohane, Nathaniel O. and Shelia M. Olmstead. 2007. "The Benefits and Costs of Environmental Protection", __Chapter 3__ in _Markets and the Environment_. Island Press, Washington D.C. pgs. 31--52
+
+* Stavins, Robert. 2009. ["Is Benefit-Cost Analysis Helpful for Environmental Regulation?"](http://www.robertstavinsblog.org/2009/07/08/is-benefit-cost-analysis-helpful-for-environmental-regulation/)
+
+### April 21st--23rd: Market-Based Policy Instruments 
+
+* Keohane, Nathaniel O. and Shelia M. Olmstead. 2007. "The Efficiency of Markets", __Chapter 4__ in _Markets and the Environment_. Island Press, Washington D.C. pgs. 54--63
+
+* Keohane, Nathaniel O. and Shelia M. Olmstead. 2007. "Market Failures in the Environmental Realm", __Chapter 5__ in _Markets and the Environment_. Island Press, Washington D.C. pgs. 65--81
+
+* Keohane, Nathaniel O. and Shelia M. Olmstead. 2007. "Principles of Market-Based Environmental Policy", __Chapter 8__ in _Markets and the Environment_. Island Press, Washington D.C. pgs. 125--151
+
+* Layzer, Judith A. 2012. "Market-Based Solutions: Acid Rain and the Clean Air Act Amendments of 1990", __Chapter 14__ in _The Environmental Case: Translating Values into Policy_. CQ Press, Washington D.C. 3rd Ed., pgs 414--446
 
 
 
