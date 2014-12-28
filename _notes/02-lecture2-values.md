@@ -1,5 +1,5 @@
 ---
-title: Lecture 2: Values and Value Conflicts
+title: Values
 date: Spring 2015 
 ---
 

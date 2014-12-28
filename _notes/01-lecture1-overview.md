@@ -1,5 +1,5 @@
 ---
-title: Lecture 1: Overview
+title: Overview
 date: Spring 2015
 ---
 
