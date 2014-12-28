@@ -74,11 +74,11 @@ _How has environmental policy evolved in the United States? What was the role of
 
 * Layzer, Judith A. 2012. "Basklash: Wise Use, Property Rights, and Antienvironmental Activism in the 1990s", __Chapter 13__ in _The Environmental Case: Translating Values into Policy_. CQ Press, Washington D.C. 3rd Ed., pgs 383--414
 
-* [Rachel Carson video](https://www.youtube.com/watch?v=Ipbc-6IvMQI)
+* [World Health Organization Statement on DDT](http://whqlibdoc.who.int/hq/2011/WHO_HTM_GMP_2011_eng.pdf)
 
 * Major Environmental Laws: [EPA website](http://www2.epa.gov/laws-regulations/laws-and-executive-orders)
 
-* [National Environmental Policy Act (NEPA)](http://www.epa.gov/compliance/basics/nepa.html)
+* [National Environmental Policy Act (NEPA)](http://www2.epa.gov/laws-regulations/summary-national-environmental-policy-act)
 
 ## II. Policymaking Institutions 
 

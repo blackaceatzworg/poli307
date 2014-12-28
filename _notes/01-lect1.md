@@ -1,5 +1,5 @@
 ---
-title: First set of notes
+title: Lecture 1: Overview
 ---
 
 ### Heading
