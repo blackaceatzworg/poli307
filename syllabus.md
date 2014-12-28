@@ -43,6 +43,8 @@ The goals for this course are to:
 
 # Course Requirements and Grading
 
+
+
 # Course Outline and Schedule
 
 __SUBJECT TO CHANGE__. Check the [course website](http://mnowlin.github.io/poli307) often for updates. 
