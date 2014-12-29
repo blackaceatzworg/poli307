@@ -43,18 +43,81 @@ The goals for this course are to:
 
 # Course Requirements and Grading
 
+Performance in this course will be evaluated on the basis of three papers, a mid--term exam, final exam (presentation), and your participation in the course.
 
+Points will be distributed as follows:
+
+* Readings Quizzes: (5 @20 pts each) 100 points
+* Paper 1: 100 points 
+* Paper 2: 100 points 
+* Paper 3: 100 points 
+* Mid--Term Exam: 100 points 
+* Final Exam (presentation): 100 points 
+* Participation: 100 points 
+* _Total: 700 points_
+
+## Assignments
+
+_Reading Quizzes_: There will be five "pop" reading quizzes throughout the semester. These quizzes will be given randomally in class. They will cover the assigned reading for the week (see the schedule below) and can only be taken in class. __No make-up quizzes will be possible__. 
+
+_Papers_: Papers will be expected to be the equivalent of 3--4 double spaced
+pages, with 1" margins, and 12-point Times New Roman font. Because
+the papers are short, I will expect well organized, clear, concise, and professional quality writing. Full and appropriate citations are expected, with any citation style (e.g., MLA, APA, Chicago) you prefer. Consider making use of the [Writing Lab](http://csl.cofc.edu/labs/writing-lab) available on campus. More information about the requirements, including due date, for each paper are under the Assignments tab on the course homepage. Note that paper 3 will include papers 1 and 2. __No late papers will be accepted__. 
+
+_Mid-term_: The mid-term exam will be given on __February 26th__. All material from the readings, lectures, media articles, and in-class discussions are fair game for the mid-term exam.
+
+_Final Exam_: The final exam will consist of a presentation of the topic you explored for your papers. The presentations will be given during the scheduled time for the final exam. You will only have 5 minutes for your presentation, so it needs to be consise and informative.
+
+_Participation_: The participation portion of your grade is based on in--class participation, participation (attendance) in on--campus lectures/events related to environmental policy broadly defined, and class attendance.
+
+* __In-class participation (40%)__: This is a discussion based course and to make it work you need to have read assigned material and be prepared to participate in course discussions. Each week you will write 4 or 5 sentences on a quiz in OAKS about how you contributed to in--class discussion and these quizzes will form the basis of your in--class participation grade. Note that the professor has final say over what does or does not count as adequate participation.
+
+* __Campus participation (40%)__: For the campus participation portion you must attend three lectures/events outside of class and to submit a one page
+response to EACH event/lecture linking the topic of the event/lecture
+to a class reading/discussion. The lectures/events are __subject to
+instructor approval__ and will be announced in class. Students may 
+also suggest on--campus events that they feel would be appropriate, but
+prior approval must be obtained. 
+
+* __Attendance (20%)__: Attendance will be taken for each class. 
+
+## Grades 
+There are __700__ possible points for this course. Grades will
+be allocated based on your earned points and calculated as a
+percentage of __700__. 
+
+* A: 94 to 100% 
+* A-: 90 to 93% 
+* B+: 87 to 89% 
+* B: 83 to 86% 
+* B-: 80 to 82% 
+* C+: 77 to 79% 
+* C:  73 to 76%
+* C-: 70 to 72% 
+* D+: 67 to 69% 
+* D: 63 to 67% 
+* D-: 60 to 62% 
+* F: 59%  and below 
+
+# Paper Topics 
+
+You are able to choose any topic related to environmental policy that is of interest to you. _Approval from me for your topic is required_ before beginning to work on your papers. Below are some suggested topic areas, however your papers will be about a specific aspect of the broader topic area. Readings about each topic area are posted on [OAKS](https://lms.cofc.edu/). 
+
+* Environmental Justice 
+* Natural Resource Management 
+* Toxic and Hazardous Substances 
+* Energy 
+* Natural Disasters
 
 # Course Outline and Schedule
 
-__SUBJECT TO CHANGE__. Check the [course website](http://mnowlin.github.io/poli307) often for updates. 
-There are no required textbooks for this class, however there is a somewhat heavy reading load. Journal article links  are provided and book chapters will be made available on [OAKS](https://lms.cofc.edu/). 
+__SUBJECT TO CHANGE__. Check the [course website](http://mnowlin.github.io/poli307) often for updates. Journal article links are provided and book chapters will be made available on [OAKS](https://lms.cofc.edu/). 
 
 ## I. Laying the Groundwork 
 
 ### Jan 13th--15th: Introduction and Course Overview
 
-* Layzer, Judith A. 2012. "A Policymaking Framework: Defining Problems and Portraying Solutions in U.S. Environmental Politics", __Chapter 1__ in _The Environmental Case: Translating Values into Policy_. CQ Press, Washington D.C. 3rd Ed., pgs 1--27
+* Layzer, Judith A. 2012. "A Policymaking Framework: Defining Problems and Portraying Solutions in U.S. Environmental Politics", __Chapter 1__ in _The Environmental Case: Translating Values into Policy_. CQ Press, Washington D.C. 3rd Ed., pgs 1--27 on [OAKS](https://lms.cofc.edu/)
 
 ### Jan 20th--22th: Values and Value Conflict 
 
@@ -70,11 +133,11 @@ _Controversies in environmental policy often deal with competing values and core
 
 _How has environmental policy evolved in the United States? What was the role of the environmental movement?_ 
 
-* Kline, Benjamin. 2011. "The 1970s: The Conservation Movement Matures", __Chapter 7__ in _First Along the River: A Brief History of the U.S. Environmental Movement_. Rowman and Littlefield, Lanham, Maryland. 4th Edition., pgs 95--111. 
+* Kline, Benjamin. 2011. "The 1970s: The Conservation Movement Matures", __Chapter 7__ in _First Along the River: A Brief History of the U.S. Environmental Movement_. Rowman and Littlefield, Lanham, Maryland. 4th Edition., pgs 95--111 on [OAKS](https://lms.cofc.edu/)
 
 * Johnson, Erik W., and Scott Frickel. 2011. ["Ecological Threat and the Founding of U.S. National Environmental Movement Organizations, 1962–1998."](http://www.jstor.org/stable/10.1525/sp.2011.58.3.305) _Social Problems_ 58(3): 305–29.
 
-* Layzer, Judith A. 2012. "Basklash: Wise Use, Property Rights, and Antienvironmental Activism in the 1990s", __Chapter 13__ in _The Environmental Case: Translating Values into Policy_. CQ Press, Washington D.C. 3rd Ed., pgs 383--414
+* Layzer, Judith A. 2012. "Basklash: Wise Use, Property Rights, and Antienvironmental Activism in the 1990s", __Chapter 13__ in _The Environmental Case: Translating Values into Policy_. CQ Press, Washington D.C. 3rd Ed., pgs 383--414 on [OAKS](https://lms.cofc.edu/)
 
 * [World Health Organization Statement on DDT](http://whqlibdoc.who.int/hq/2011/WHO_HTM_GMP_2011_eng.pdf)
 
@@ -88,15 +151,13 @@ _How has environmental policy evolved in the United States? What was the role of
 
 _Institutions are defined as the "rules of the game", how do these rules influence policymaking? How is Congress organized?_ 
 
-* Analyzing Politics
+* Analyzing Politics on [OAKS](https://lms.cofc.edu/)
 
-* Kraft, E. Michael. 2013. "Environmental Policy in Congress", __Chapter 5__ in _Environmental Policy: New Directions for the 21st Century_. eds. Michael E. Kraft and Norman J. Vig. CQ Press, Washington D.C. 8th Ed., pgs. 109--134
+* Kraft, E. Michael. 2013. "Environmental Policy in Congress", __Chapter 5__ in _Environmental Policy: New Directions for the 21st Century_. eds. Michael E. Kraft and Norman J. Vig. CQ Press, Washington D.C. 8th Ed., pgs. 109--134 on [OAKS](https://lms.cofc.edu/)
 
-* Layzer, Judith A. 2012. "The Nation Tackles Pollution: The Environmental Protection Agency and the Clean Air and Clean Water Acts", __Chapter 2__ in _The Environmental Case: Translating Values into Policy_. CQ Press, Washington D.C. 3rd Ed., pgs 28--55
+* Layzer, Judith A. 2012. "The Nation Tackles Pollution: The Environmental Protection Agency and the Clean Air and Clean Water Acts", __Chapter 2__ in _The Environmental Case: Translating Values into Policy_. CQ Press, Washington D.C. 3rd Ed., pgs 28--55 on [OAKS](https://lms.cofc.edu/)
 
 [History of the Clean Air Act](http://www.epa.gov/air/caa/amendments.html)
-
-[Congress.gov](https://www.congress.gov/)
 
 ### Feb 10th--12th: Congress, the President, and the Executive Branch
 
@@ -106,15 +167,15 @@ _How does polarization in Congress impact environmental policymaking?  What is t
 
 * Hird, John A. 1993. ["Congressional Voting on Superfund: Self-Interest or Ideology?"](http://www.jstor.org/stable/30026841) _Public Choice_ 77(2): 333–357.
 
-* Vig, Norman J. 2013. "Presidential Power and Environmental Policy", __Chapter 4__ in _Environmental Policy: New Directions for the 21st Century_. eds. Michael E. Kraft and Norman J. Vig. CQ Press, Washington D.C. 8th Ed., pgs. 84--108
+* Vig, Norman J. 2013. "Presidential Power and Environmental Policy", __Chapter 4__ in _Environmental Policy: New Directions for the 21st Century_. eds. Michael E. Kraft and Norman J. Vig. CQ Press, Washington D.C. 8th Ed., pgs. 84--108 on [OAKS](https://lms.cofc.edu/)
 
 ### Feb 17th--19th: The Bureaucracy 
 
 _What is the role of the bureaucracy in environmental policy?  How does the bureaucracy interact with Congress and the president when making environmental policy?_ 
 
-* Rosenbaum, Walter A. 2014. "Command and Control in Action: Air and Water Pollution Regulation", __Chapter 6__ in _Environmental Politics and Policy_. CQ Press, Washington D.C. 9th Ed., pgs. 197--238
+* Rosenbaum, Walter A. 2014. "Command and Control in Action: Air and Water Pollution Regulation", __Chapter 6__ in _Environmental Politics and Policy_. CQ Press, Washington D.C. 9th Ed., pgs. 197--238 on [OAKS](https://lms.cofc.edu/)
 
-* Rosenbaum, Walter A. 2013. "Science, Politics, and Policy at the EPA", __Chapter 7__ in _Environmental Policy: New Directions for the 21st Century_. eds. Michael E. Kraft and Norman J. Vig. CQ Press, Washington D.C. 8th Ed., pgs. 158--187
+* Rosenbaum, Walter A. 2013. "Science, Politics, and Policy at the EPA", __Chapter 7__ in _Environmental Policy: New Directions for the 21st Century_. eds. Michael E. Kraft and Norman J. Vig. CQ Press, Washington D.C. 8th Ed., pgs. 158--187 on [OAKS](https://lms.cofc.edu/)
 
 * Rinfret, Sara R. 2011. ["Frames of Influence: U.S. Environmental Rulemaking Case Studies."](http://onlinelibrary.wiley.com/doi/10.1111/j.1541-1338.2011.00493.x/abstract) _Review of Policy Research_ 28(3): 231–46.
 
@@ -124,7 +185,7 @@ _What is the role of the bureaucracy in environmental policy?  How does the bure
 
 _How do the courts influence environmental policy? How do they engage with other institutions?_ 
 
-* O'Leary, Rosemary. 2013. "Environmental Policy in the Courts", __Chapter 6__ in _Environmental Policy: New Directions for the 21st Century_. eds. Michael E. Kraft and Norman J. Vig. CQ Press, Washington D.C. 8th Ed., pgs. 135--156
+* O'Leary, Rosemary. 2013. "Environmental Policy in the Courts", __Chapter 6__ in _Environmental Policy: New Directions for the 21st Century_. eds. Michael E. Kraft and Norman J. Vig. CQ Press, Washington D.C. 8th Ed., pgs. 135--156 on [OAKS](https://lms.cofc.edu/)
  
 * [_Lucas v. South Carolina Coastal Council_](http://www.oyez.org/cases/1990-1999/1991/1991_91_453)
 
@@ -166,7 +227,7 @@ _Policy choices are made by multiple policymakers within and across multiple pol
 
 _How do states and the federal government interact in environmental policy?_ 
 
-* Rabe, Barry G. 2013. "Racing to the Top, the Bottom, or the Middle of the Pack? The Evolving State Government Role in Environmental Protection", __Chapter 2__ in _Environmental Policy: New Directions for the 21st Century_. eds. Michael E. Kraft and Norman J. Vig. CQ Press, Washington D.C. 8th Ed., pgs. 30--53
+* Rabe, Barry G. 2013. "Racing to the Top, the Bottom, or the Middle of the Pack? The Evolving State Government Role in Environmental Protection", __Chapter 2__ in _Environmental Policy: New Directions for the 21st Century_. eds. Michael E. Kraft and Norman J. Vig. CQ Press, Washington D.C. 8th Ed., pgs. 30--53 on [OAKS](https://lms.cofc.edu/)
  
 * "The New Era of Climate Federalism" [Brookings](http://www.brookings.edu/blogs/fixgov/posts/2014/06/02-new-epa-climate-federalism-rabe)
 
@@ -176,7 +237,7 @@ _How do states and the federal government interact in environmental policy?_
 
 _What is the role of science in environmental policy? How are risks understood by experts and the public?_ 
 
-* Rosenbaum, Walter A. 2014. "Common Policy Challenges: Risk Assessment and Environmental Justice", __Chapter 4__ in _Environmental Politics and Policy_. CQ Press, Washington D.C. 9th Ed., pgs. 129--159
+* Rosenbaum, Walter A. 2014. "Common Policy Challenges: Risk Assessment and Environmental Justice", __Chapter 4__ in _Environmental Politics and Policy_. CQ Press, Washington D.C. 9th Ed., pgs. 129--159 on [OAKS](https://lms.cofc.edu/)
 
 * Kasperson, Roger E., Ortwin Renn, Paul Slovic, Halina S. Brown, Jacque Emel, Robert Goble, Jeanne X. Kasperson, and Samuel Ratick. 1988. ["The Social Amplification of Risk: A Conceptual Framework."](http://onlinelibrary.wiley.com/doi/10.1111/j.1539-6924.1988.tb01168.x/abstract) _Risk Analysis_ 8(2): 177–87.
 
@@ -186,24 +247,54 @@ _What is the role of science in environmental policy? How are risks understood b
 
 ### April 14th--16th: Benefit-Cost Analysis 
 
-* Rosenbaum, Walter A. 2014. "More Choice: The Battle over Regulatory Economics", __Chapter 5__ in _Environmental Politics and Policy_. CQ Press, Washington D.C. 9th Ed., pgs. 165--193
+* Rosenbaum, Walter A. 2014. "More Choice: The Battle over Regulatory Economics", __Chapter 5__ in _Environmental Politics and Policy_. CQ Press, Washington D.C. 9th Ed., pgs. 165--193 on [OAKS](https://lms.cofc.edu/)
 
-* Keohane, Nathaniel O. and Shelia M. Olmstead. 2007. "Economic Efficiency and Environmental Protection", __Chapter 2__ in _Markets and the Environment_. Island Press, Washington D.C. pgs. 11--30
+* Keohane, Nathaniel O. and Shelia M. Olmstead. 2007. "Economic Efficiency and Environmental Protection", __Chapter 2__ in _Markets and the Environment_. Island Press, Washington D.C. pgs. 11--30 on [OAKS](https://lms.cofc.edu/)
 
-* Keohane, Nathaniel O. and Shelia M. Olmstead. 2007. "The Benefits and Costs of Environmental Protection", __Chapter 3__ in _Markets and the Environment_. Island Press, Washington D.C. pgs. 31--52
+* Keohane, Nathaniel O. and Shelia M. Olmstead. 2007. "The Benefits and Costs of Environmental Protection", __Chapter 3__ in _Markets and the Environment_. Island Press, Washington D.C. pgs. 31--52 on [OAKS](https://lms.cofc.edu/)
 
 * Stavins, Robert. 2009. ["Is Benefit-Cost Analysis Helpful for Environmental Regulation?"](http://www.robertstavinsblog.org/2009/07/08/is-benefit-cost-analysis-helpful-for-environmental-regulation/)
 
 ### April 21st--23rd: Market-Based Policy Instruments 
 
-* Keohane, Nathaniel O. and Shelia M. Olmstead. 2007. "The Efficiency of Markets", __Chapter 4__ in _Markets and the Environment_. Island Press, Washington D.C. pgs. 54--63
+* Keohane, Nathaniel O. and Shelia M. Olmstead. 2007. "The Efficiency of Markets", __Chapter 4__ in _Markets and the Environment_. Island Press, Washington D.C. pgs. 54--63 on [OAKS](https://lms.cofc.edu/)
 
-* Keohane, Nathaniel O. and Shelia M. Olmstead. 2007. "Market Failures in the Environmental Realm", __Chapter 5__ in _Markets and the Environment_. Island Press, Washington D.C. pgs. 65--81
+* Keohane, Nathaniel O. and Shelia M. Olmstead. 2007. "Market Failures in the Environmental Realm", __Chapter 5__ in _Markets and the Environment_. Island Press, Washington D.C. pgs. 65--81 on [OAKS](https://lms.cofc.edu/)
 
-* Keohane, Nathaniel O. and Shelia M. Olmstead. 2007. "Principles of Market-Based Environmental Policy", __Chapter 8__ in _Markets and the Environment_. Island Press, Washington D.C. pgs. 125--151
+* Keohane, Nathaniel O. and Shelia M. Olmstead. 2007. "Principles of Market-Based Environmental Policy", __Chapter 8__ in _Markets and the Environment_. Island Press, Washington D.C. pgs. 125--151 on [OAKS](https://lms.cofc.edu/)
 
-* Layzer, Judith A. 2012. "Market-Based Solutions: Acid Rain and the Clean Air Act Amendments of 1990", __Chapter 14__ in _The Environmental Case: Translating Values into Policy_. CQ Press, Washington D.C. 3rd Ed., pgs 414--446
+* Layzer, Judith A. 2012. "Market-Based Solutions: Acid Rain and the Clean Air Act Amendments of 1990", __Chapter 14__ in _The Environmental Case: Translating Values into Policy_. CQ Press, Washington D.C. 3rd Ed., pgs 414--446 on [OAKS](https://lms.cofc.edu/)
 
+## Students with Disabilities:
+The College will make reasonable accommodations for persons with
+documented disabilities. Students should apply at the [Center for
+Disability Services](http://disabilityservices.cofc.edu/) located on the first floor of the Lightsey Center, Suite 104. Students approved for accommodations are responsible for notifying me as soon as possible and for contacting me at least one week before any accommodation is needed. 
+ 
+## Cheating or Plagiarism:
+A grade of zero will be given to anyone cheating on any exam, homework
+assignment or committing plagiarism in a paper. As commonly defined,
+plagiarism consists of passing off as ones own ideas, the words,
+writings, music, graphs/charts, etc that were created by another. In
+accordance with this definition, you are committing plagiarism if you
+copy the work of another person and turn it in as your own, even if
+you have the permission of that person.  It does not matter from where
+the material is borrowed–a book, article, material off the web,
+another student’s paper–all constitute plagiarism unless the source of
+the work is fully identified and credited. Plagiarism is cheating and
+a violation of academic and personal integrity and will not be
+tolerated.  It carries extremely serious consequences.  To avoid
+plagiarism it is necessary when using a phrase, a distinctive idea,
+concept or sentence from another source to reference that source in
+your text, a footnote, or end-note.  Please contact me if you need
+assistance in citing a source. 
+
+## Religious Holiday Policy:
+It is the policy of the College to excuse absences of students that
+result from religious observances and to provide without penalty for
+the rescheduling of examinations and additional required class work
+that may fall on religious holidays.  Please see me
+immediately if you will need to miss class any time during this
+semester.
 
 
 
