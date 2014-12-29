@@ -5,6 +5,8 @@ layout: default
 pdf:poli307syllabus.pdf
 ---
 
+The syllabus is also available as a [PDF](https://github.com/mnowlin/poli307/blob/gh-pages/poli307syllabus.pdf).
+
 # Course Description
 
 [Catalog course description](https://ssb.cofc.edu:9710/prod/bwckctlg.p_display_courses?term_in=201520&one_subj=POLI&sel_crse_strt=307&sel_crse_end=307&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=) 
