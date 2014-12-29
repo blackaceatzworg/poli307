@@ -2,6 +2,7 @@
 title: Syllabus
 category: syllabus
 layout: default
+pdf:poli307syllabus.pdf
 ---
 
 # Course Description
