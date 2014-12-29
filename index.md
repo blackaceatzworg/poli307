@@ -9,8 +9,6 @@ layout: home
 Welcome to  **{{site.data.course.number}}**:
 {{site.data.course.name}}. The [syllabus](syllabus.html), lecture notes, and assignments are posted here and will be updated throughout the semester.
 
-Also note that we will be making use of [piazza](https://piazza.com/class/i3p80msamlf4kc) for class questions and discussion of current events related to environmental policy.
-
-All course readings will be available on [OAKS](https://lms.cofc.edu/).
+Course readings are listed in the schedule section of the syllabus. All readings are to be read _prior to class_. Links are provide for some readings and the others will be available on [OAKS](https://lms.cofc.edu/).
 
 All assignments will be turned into the dropbox available on [OAKS](https://lms.cofc.edu/).
