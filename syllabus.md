@@ -2,10 +2,8 @@
 title: Syllabus
 category: syllabus
 layout: default
-pdf:poli307syllabus.pdf
+pdf: poli307syllabus.pdf
 ---
-
-The syllabus is also available as a [PDF](https://github.com/mnowlin/poli307/blob/gh-pages/poli307syllabus.pdf).
 
 # Course Description
 
