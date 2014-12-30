@@ -204,7 +204,7 @@ _How do the courts influence environmental policy? How do they engage with other
 
 _Policy is not made only by siloed institutions, but within a system of mulitple institutions and policy actors. Within the policymaking system, do interest groups influence policy? If so, how? Does public opinion influence policymaking?_ 
 
-* Oates, Wallace E. and Paul R. Portney. 2003. ["The Political Economy of Environmental Policy" PDF](https://www.econ.umd.edu/research/papers/360/download/209), __Chapter 8__ in _Handbook of Environmental Economics Volume 1_. eds. Karl-Goran Maler and Jeffrey R. Vincent.
+* Oates, Wallace E. and Paul R. Portney. 2003. ["The Political Economy of Environmental Policy" PDF](https://www.econ.umd.edu/research/papers/360/download/209), __Chapter 8__ in _Handbook of Environmental Economics Volume 1_. eds. Karl-Goran Maler and Jeffrey R. Vincent. __Read pgs. 328--341__. 
 
 * Lowery, David, and Virginia Gray. 2004. ["A Neopluralist Perspective on Research on Organized Interests."](http://prq.sagepub.com/content/57/1/164.short) _Political Research Quarterly_ 57(1): 163–75.
 
@@ -235,7 +235,9 @@ _Policy choices are made by multiple policymakers within and across multiple pol
 _How do states and the federal government interact in environmental policy?_ 
 
 * Rabe, Barry G. 2013. "Racing to the Top, the Bottom, or the Middle of the Pack? The Evolving State Government Role in Environmental Protection", __Chapter 2__ in _Environmental Policy: New Directions for the 21st Century_. eds. Michael E. Kraft and Norman J. Vig. CQ Press, Washington D.C. 8th Ed., pgs. 30--53 on [OAKS](https://lms.cofc.edu/)
- 
+
+* Oates, Wallace E. and Paul R. Portney. 2003. ["The Political Economy of Environmental Policy" PDF](https://www.econ.umd.edu/research/papers/360/download/209), __Chapter 8__ in _Handbook of Environmental Economics Volume 1_. eds. Karl-Goran Maler and Jeffrey R. Vincent. __Read pgs. 341--350__. 
+
 * Rabe, Barry G. 2014. ["The New Era of Climate Federalism."](http://www.brookings.edu/blogs/fixgov/posts/2014/06/02-new-epa-climate-federalism-rabe) _The Brookings Institution_ 
 
 ### April 2nd: No Class
