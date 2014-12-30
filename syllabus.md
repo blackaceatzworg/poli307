@@ -16,7 +16,7 @@ States.
 The course will provide an overview of the development of environmental policy issues, including a brief history on the develop of environmental politics in the U.S. In addition, the course will also provide a theoretical base for understanding policy changes in the U. S. Major portions of the course will be devoted to examining the fundamental beliefs and attitudes that
 have shaped environmental policies; the major political institutions in the U.S. that conceive, design, implement, and revise environmental policies; the role of science and risk assessment in environmental policy; and the application of economic principles to environmental issues.
 
-The format of the course will be a mixture of lecture, discussion, and group work. Students should come to each class prepared to participate in discussion. This means you have reviewed your notes from previous classes and have read the readings in advance of class. You are encouraged to bring your internet capable device (laptop, tablet, smart--phone) to class for discussion and group work, _however these devices are not to be used in a way that is distracting to your professor or your classmates_
+The format of the course will be a mixture of lecture, discussion, and group work. Students should come to each class prepared to participate in discussion. This means you have reviewed your notes from previous classes and have read the readings in advance of class. You are encouraged to bring your internet capable device (laptop, tablet, smart--phone) to class for discussion and group work, _however these devices are not to be used in a way that is distracting to your professor or your classmates_.
 
 # Course Goals and Learning Objectives
 
@@ -49,9 +49,9 @@ Performance in this course will be evaluated on the basis of three papers, a mid
 Points will be distributed as follows:
 
 * Readings Quizzes: (5 @20 pts each) 100 points
-* Paper 1: 100 points 
-* Paper 2: 100 points 
-* Paper 3: 100 points 
+* Paper 1: 75 points 
+* Paper 2: 75 points 
+* Paper 3: 150 points 
 * Mid--Term Exam: 100 points 
 * Final Exam (presentation): 100 points 
 * Participation: 100 points 
@@ -71,16 +71,18 @@ _Final Exam_: The final exam will consist of a presentation of the topic you exp
 
 _Participation_: The participation portion of your grade is based on in--class participation, participation (attendance) in on--campus lectures/events related to environmental policy broadly defined, and class attendance.
 
-* __In-class participation (40%)__: This is a discussion based course and to make it work you need to have read assigned material and be prepared to participate in course discussions. Each week you will write 4 or 5 sentences on a quiz in OAKS about how you contributed to in--class discussion and these quizzes will form the basis of your in--class participation grade. Note that the professor has final say over what does or does not count as adequate participation.
+* __In-class participation (30%)__: This is a discussion based course and to make it work you need to have read assigned material and be prepared to participate in course discussions. Each week you will write 4 or 5 sentences on a quiz in OAKS about how you contributed to in--class discussion and these quizzes will form the basis of your in--class participation grade. Note that the professor has final say over what does or does not count as adequate participation.
 
-* __Campus participation (40%)__: For the campus participation portion you must attend three lectures/events outside of class and to submit a one page
+* __Campus participation (30%)__: For the campus participation portion you must attend three lectures/events outside of class and to submit a one page
 response to EACH event/lecture linking the topic of the event/lecture
 to a class reading/discussion. The lectures/events are __subject to
 instructor approval__ and will be announced in class. Students may 
 also suggest on--campus events that they feel would be appropriate, but
 prior approval must be obtained. 
 
-* __Attendance (20%)__: Attendance will be taken for each class. 
+* __Attendance (30%)__: Attendance will be taken for each class. 
+
+* __Above and Beyond (10%)__: 
 
 ## Grades 
 There are __700__ possible points for this course. Grades will
@@ -102,7 +104,7 @@ percentage of __700__.
 
 # Paper Topics 
 
-You are able to choose any topic related to environmental policy that is of interest to you. _Approval from me for your topic is required_ before beginning to work on your papers. Below are some suggested topic areas, however your papers will be about a specific aspect of the broader topic area. Readings about each topic area are posted on [OAKS](https://lms.cofc.edu/). 
+You are able to choose any topic related to environmental policy that is of interest to you. _Approval from the instructor for your topic is required_ before beginning to work on your papers. Below are some suggested topic areas, however your papers will be about a specific aspect of the broader topic area. Readings about each topic area are posted on [OAKS](https://lms.cofc.edu/). 
 
 * Environmental Justice 
 * Natural Resource Management 
@@ -125,6 +127,8 @@ __SUBJECT TO CHANGE__. Check the [course website](http://mnowlin.github.io/poli3
 _Controversies in environmental policy often deal with competing values and core beliefs. What are the types of values that influence thinking about the environment?_ 
 
 * Jones, Michael D. 2011. ["Leading the Way to Compromise? Cultural Theory and Climate Change Opinion."](http://dx.doi.org/10.1017/S104909651100134X) _PS: Political Science & Politics_ 44(04): 720–25.
+
+* Kahan, Dan M., Ellen Peters, Maggie Wittlin, Paul Slovic, Lisa Larrimore Ouellette, Donald Braman, and Gregory Mandel. 2012. ["The Polarizing Impact of Science Literacy and Numeracy on Perceived Climate Change Risks."](http://www.nature.com/nclimate/journal/v2/n10/abs/nclimate1547.html) _Nature Climate Change_ 2(10): 732–35.
 
 * Dunlap, Riley E., Kent D. Van Liere, Angela G. Mertig, and Robert Emmet Jones. 2000. ["New Trends in Measuring Environmental Attitudes: Measuring Endorsement of the New Ecological Paradigm: A Revised NEP Scale."](http://onlinelibrary.wiley.com/doi/10.1111/0022-4537.00176/abstract) _Journal of Social Issues_ 56(3): 425–42.
 
@@ -152,7 +156,7 @@ _How has environmental policy evolved in the United States? What was the role of
 
 _Institutions are defined as the "rules of the game", how do these rules influence policymaking? How is Congress organized?_ 
 
-* Analyzing Politics on [OAKS](https://lms.cofc.edu/)
+* Binder, Sarah A. 2015. ["The Dysfunctional Congress."](http://www.annualreviews.org/doi/abs/10.1146/annurev-polisci-110813-032156) _Annual Review of Political Science_ 18.
 
 * Kraft, E. Michael. 2013. "Environmental Policy in Congress", __Chapter 5__ in _Environmental Policy: New Directions for the 21st Century_. eds. Michael E. Kraft and Norman J. Vig. CQ Press, Washington D.C. 8th Ed., pgs. 109--134 on [OAKS](https://lms.cofc.edu/)
 
@@ -166,7 +170,7 @@ _How does polarization in Congress impact environmental policymaking?  What is t
 
 * Shipan, Charles R., and William R. Lowry. 2001. ["Environmental Policy and Party Divergence in Congress."](http://prq.sagepub.com/content/54/2/245.short) _Political Research Quarterly_ 54(2): 245–263.
 
-* Hird, John A. 1993. ["Congressional Voting on Superfund: Self-Interest or Ideology?"](http://www.jstor.org/stable/30026841) _Public Choice_ 77(2): 333–357.
+* Rabe, Barry G. 2010. "Can Congress Govern the Climate?", __Chapter 11__ in _Greenhouse Governance: Addressing Climate Change in America_. eds. Barry G. Rabe. The Brookings Institution, Washington D.C. pgs. 260--285 on [OAKS](https://lms.cofc.edu/)
 
 * Vig, Norman J. 2013. "Presidential Power and Environmental Policy", __Chapter 4__ in _Environmental Policy: New Directions for the 21st Century_. eds. Michael E. Kraft and Norman J. Vig. CQ Press, Washington D.C. 8th Ed., pgs. 84--108 on [OAKS](https://lms.cofc.edu/)
 
@@ -175,8 +179,6 @@ _How does polarization in Congress impact environmental policymaking?  What is t
 _What is the role of the bureaucracy in environmental policy?  How does the bureaucracy interact with Congress and the president when making environmental policy?_ 
 
 * Rosenbaum, Walter A. 2014. "Command and Control in Action: Air and Water Pollution Regulation", __Chapter 6__ in _Environmental Politics and Policy_. CQ Press, Washington D.C. 9th Ed., pgs. 197--238 on [OAKS](https://lms.cofc.edu/)
-
-* Rosenbaum, Walter A. 2013. "Science, Politics, and Policy at the EPA", __Chapter 7__ in _Environmental Policy: New Directions for the 21st Century_. eds. Michael E. Kraft and Norman J. Vig. CQ Press, Washington D.C. 8th Ed., pgs. 158--187 on [OAKS](https://lms.cofc.edu/)
 
 * Rinfret, Sara R. 2011. ["Frames of Influence: U.S. Environmental Rulemaking Case Studies."](http://onlinelibrary.wiley.com/doi/10.1111/j.1541-1338.2011.00493.x/abstract) _Review of Policy Research_ 28(3): 231–46.
 
@@ -204,6 +206,8 @@ _Policy is not made only by siloed institutions, but within a system of mulitple
 
 * Oates, Wallace E. and Paul R. Portney. 2003. ["The Political Economy of Environmental Policy" PDF](https://www.econ.umd.edu/research/papers/360/download/209), __Chapter 8__ in _Handbook of Environmental Economics Volume 1_. eds. Karl-Goran Maler and Jeffrey R. Vincent.
 
+* Lowery, David, and Virginia Gray. 2004. ["A Neopluralist Perspective on Research on Organized Interests."](http://prq.sagepub.com/content/57/1/164.short) _Political Research Quarterly_ 57(1): 163–75.
+
 * Johnson, Martin, Paul Brace, and Kevin Arceneaux. 2005. ["Public Opinion and Dynamic Representation in the American States: The Case of Environmental Attitudes."](http://onlinelibrary.wiley.com/doi/10.1111/j.0038-4941.2005.00292.x/abstract) _Social Science Quarterly_ 86(1): 87–108.
 
 ### March 17th--19th: Agenda Setting 
@@ -220,6 +224,8 @@ _What is the policymaking agenda? How do environmental issues get on the agenda?
 
 _Policy choices are made by multiple policymakers within and across multiple policy subsystems. What are policy subsystems and how is policy made within them? Who participates in policy subsystems?_ 
 
+* McCool, Daniel. 1998. ["The Subsystem Family of Concepts: A Critique and a Proposal."](http://prq.sagepub.com/content/51/2/551.short) _Political Research Quarterly_ 51(2): 551–70.
+
 * Ellison, Brian A. 1998. ["The Advocacy Coalition Framework and Implementation of the Endangered Species Act: A Case Study in Western Water Politics."](http://onlinelibrary.wiley.com/doi/10.1111/j.1541-0072.1998.tb01922.x/abstract) _Policy Studies Journal_ 26(1): 11–29.
 
 * Elgin, Dallas J., and Christopher M. Weible. 2013. ["A Stakeholder Analysis of Colorado Climate and Energy Issues Using Policy Analytical Capacity and the Advocacy Coalition Framework."](http://onlinelibrary.wiley.com/doi/10.1111/ropr.12005/abstract?deniedAccessCustomisedMessage=&userIsAuthenticated=false) _Review of Policy Research_ 30(1): 114–33.
@@ -230,7 +236,7 @@ _How do states and the federal government interact in environmental policy?_
 
 * Rabe, Barry G. 2013. "Racing to the Top, the Bottom, or the Middle of the Pack? The Evolving State Government Role in Environmental Protection", __Chapter 2__ in _Environmental Policy: New Directions for the 21st Century_. eds. Michael E. Kraft and Norman J. Vig. CQ Press, Washington D.C. 8th Ed., pgs. 30--53 on [OAKS](https://lms.cofc.edu/)
  
-* "The New Era of Climate Federalism" [Brookings](http://www.brookings.edu/blogs/fixgov/posts/2014/06/02-new-epa-climate-federalism-rabe)
+* Rabe, Barry G. 2014. ["The New Era of Climate Federalism."](http://www.brookings.edu/blogs/fixgov/posts/2014/06/02-new-epa-climate-federalism-rabe) _The Brookings Institution_ 
 
 ### April 2nd: No Class
 
@@ -239,6 +245,8 @@ _How do states and the federal government interact in environmental policy?_
 _What is the role of science in environmental policy? How are risks understood by experts and the public?_ 
 
 * Rosenbaum, Walter A. 2014. "Common Policy Challenges: Risk Assessment and Environmental Justice", __Chapter 4__ in _Environmental Politics and Policy_. CQ Press, Washington D.C. 9th Ed., pgs. 129--159 on [OAKS](https://lms.cofc.edu/)
+
+* Rosenbaum, Walter A. 2013. "Science, Politics, and Policy at the EPA", __Chapter 7__ in _Environmental Policy: New Directions for the 21st Century_. eds. Michael E. Kraft and Norman J. Vig. CQ Press, Washington D.C. 8th Ed., pgs. 158--187 on [OAKS](https://lms.cofc.edu/)
 
 * Kasperson, Roger E., Ortwin Renn, Paul Slovic, Halina S. Brown, Jacque Emel, Robert Goble, Jeanne X. Kasperson, and Samuel Ratick. 1988. ["The Social Amplification of Risk: A Conceptual Framework."](http://onlinelibrary.wiley.com/doi/10.1111/j.1539-6924.1988.tb01168.x/abstract) _Risk Analysis_ 8(2): 177–87.
 
