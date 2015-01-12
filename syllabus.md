@@ -16,7 +16,7 @@ States.
 The course will provide an overview of the development of environmental policy issues, including a brief history on the develop of environmental politics in the U.S. In addition, the course will also provide a theoretical base for understanding policy changes in the U. S. Major portions of the course will be devoted to examining the fundamental beliefs and attitudes that
 have shaped environmental policies; the major political institutions in the U.S. that conceive, design, implement, and revise environmental policies; the role of science and risk assessment in environmental policy; and the application of economic principles to environmental issues.
 
-The format of the course will be a mixture of lecture, discussion, and group work. Students should come to each class prepared to participate in discussion. This means you have reviewed your notes from previous classes and have read the readings in advance of class. You are encouraged to bring your internet capable device (laptop, tablet, smart--phone) to class for discussion and group work, _however these devices are not to be used in a way that is distracting to your professor or your classmates_.
+This course will be structured as a seminar, meaning that classes will be discussion based rather than lecture based. This requires you to come to class prepared by having done the assigned readings prior to class. In addition, you should be prepared to participate in class by asking questions and making informed comments that add to the class discussion. _Cell phones must be put away during class and the use of laptops for note-taking is STRONGLY DISCOURAGED_. 
 
 # Course Goals and Learning Objectives
 
@@ -59,7 +59,7 @@ Points will be distributed as follows:
 
 ## Assignments
 
-_Reading Quizzes_: There will be five "pop" reading quizzes throughout the semester. These quizzes will be given randomally in class. They will cover the assigned reading for the week (see the schedule below) and can only be taken in class. __No make-up quizzes will be possible__. 
+_Reading Quizzes_: There will be five "pop" reading quizzes throughout the semester. These quizzes will be given in class at random with no prior announcement. They will cover the assigned reading for the week (see the schedule below) and can only be taken in class. __No make-up quizzes will be possible__. 
 
 _Papers_: Papers will be expected to be the equivalent of 3--4 double spaced
 pages, with 1" margins, and 12-point Times New Roman font. Because
@@ -67,7 +67,7 @@ the papers are short, I will expect well organized, clear, concise, and professi
 
 _Mid-term_: The mid-term exam will be given on __February 26th__. All material from the readings, lectures, media articles, and in-class discussions are fair game for the mid-term exam.
 
-_Final Exam_: The final exam will consist of a presentation of the topic you explored for your papers. The presentations will be given during the scheduled time for the final exam. You will only have 5 minutes for your presentation, so it needs to be consise and informative.
+_Final Exam_: The final exam will consist of a presentation of the topic you explored for your papers. The presentations will be given during the scheduled time for the final exam. You will only have 5 minutes for your presentation, so it needs to be concise and informative. __The final exam period is Tuesday May 5th__ from __12:00 to 3:00pm__.
 
 _Participation_: The participation portion of your grade is based on in--class participation, participation (attendance) in on--campus lectures/events related to environmental policy broadly defined, and class attendance.
 
@@ -80,9 +80,9 @@ instructor approval__ and will be announced in class. Students may
 also suggest on--campus events that they feel would be appropriate, but
 prior approval must be obtained. 
 
-* __Attendance (30%)__: Attendance will be taken for each class. 
+* __Attendance (30%)__: Attendance will be taken for each class. You are allowed two absences without any penalty. For your third absence you will lose 50 points, for your fourth you will lose 100 points (150 pts.), and for your fifth you will lose 200 points (350 pts.). _If you miss more than five classes you will automatically receive a grade of WA_.
 
-* __Above and Beyond (10%)__: 
+* __Above and Beyond (10%)__: This includes but is not limited to consistent thoughtful questions and comments; mentioning facts or current events relative to class discussion; and overall making the class discussions more thought-provoking and informative. 
 
 ## Grades 
 There are __700__ possible points for this course. Grades will
@@ -120,19 +120,17 @@ __SUBJECT TO CHANGE__. Check the [course website](http://mnowlin.github.io/poli3
 
 ### Jan 13th--15th: Introduction and Course Overview
 
-* Layzer, Judith A. 2012. "A Policymaking Framework: Defining Problems and Portraying Solutions in U.S. Environmental Politics", __Chapter 1__ in _The Environmental Case: Translating Values into Policy_. CQ Press, Washington D.C. 3rd Ed., pgs 1--27 on [OAKS](https://lms.cofc.edu/)
+* Layzer, Judith A. 2012. "A Policymaking Framework: Defining Problems and Portraying Solutions in U.S. Environmental Politics", __Chapter 1__ in _The Environmental Case: Translating Values into Policy_. CQ Press, Washington D.C. 3rd Ed., pgs 1--18 on [OAKS](https://lms.cofc.edu/)
 
 ### Jan 20th--22th: Values and Value Conflict 
 
 _Controversies in environmental policy often deal with competing values and core beliefs. What are the types of values that influence thinking about the environment?_ 
 
+* Slimak, Michael W., and Thomas Dietz. 2006. ["Personal Values, Beliefs, and Ecological Risk Perception."](http://onlinelibrary.wiley.com/doi/10.1111/j.1539-6924.2006.00832.x/full) _Risk Analysis_ 26(6): 1689–1705. 
+
 * Jones, Michael D. 2011. ["Leading the Way to Compromise? Cultural Theory and Climate Change Opinion."](http://dx.doi.org/10.1017/S104909651100134X) _PS: Political Science & Politics_ 44(04): 720–25.
 
-* Kahan, Dan M., Ellen Peters, Maggie Wittlin, Paul Slovic, Lisa Larrimore Ouellette, Donald Braman, and Gregory Mandel. 2012. ["The Polarizing Impact of Science Literacy and Numeracy on Perceived Climate Change Risks."](http://www.nature.com/nclimate/journal/v2/n10/abs/nclimate1547.html) _Nature Climate Change_ 2(10): 732–35.
-
-* Dunlap, Riley E., Kent D. Van Liere, Angela G. Mertig, and Robert Emmet Jones. 2000. ["New Trends in Measuring Environmental Attitudes: Measuring Endorsement of the New Ecological Paradigm: A Revised NEP Scale."](http://onlinelibrary.wiley.com/doi/10.1111/0022-4537.00176/abstract) _Journal of Social Issues_ 56(3): 425–42.
-
-* [The Lorax](https://www.youtube.com/watch?v=8V06ZOQuo0k)
+* Kahan, Dan M., Ellen Peters, Maggie Wittlin, Paul Slovic, Lisa Larrimore Ouellette, Donald Braman, and Gregory Mandel. 2012. ["The Polarizing Impact of Science Literacy and Numeracy on Perceived Climate Change Risks."](http://www.nature.com/nclimate/journal/v2/n10/abs/nclimate1547.html) _Nature Climate Change_ 2(10): 732–35. on [OAKS](https://lms.cofc.edu/)
 
 ### Jan 27th--29th: Evolution of Environmental Policy in the United States
 
@@ -156,7 +154,7 @@ _How has environmental policy evolved in the United States? What was the role of
 
 _Institutions are defined as the "rules of the game", how do these rules influence policymaking? How is Congress organized?_ 
 
-* Binder, Sarah A. 2015. ["The Dysfunctional Congress."](http://www.annualreviews.org/doi/abs/10.1146/annurev-polisci-110813-032156) _Annual Review of Political Science_ 18.
+* Binder, Sarah A. 2015. ["The Dysfunctional Congress."](http://sarahbinder.weebly.com/uploads/3/1/8/8/31889891/binder_page_proof_arps_dysfunctional_congress.pdf) _Annual Review of Political Science_ 18.
 
 * Kraft, E. Michael. 2013. "Environmental Policy in Congress", __Chapter 5__ in _Environmental Policy: New Directions for the 21st Century_. eds. Michael E. Kraft and Norman J. Vig. CQ Press, Washington D.C. 8th Ed., pgs. 109--134 on [OAKS](https://lms.cofc.edu/)
 
@@ -194,7 +192,7 @@ _How do the courts influence environmental policy? How do they engage with other
 
 * [_Massachusetts v. Environmental Protection Agency_](http://www.oyez.org/cases/2000-2009/2006/2006_05_1120/)
 
-### Feb 26th: Midterm Exam
+### Feb 26th: Mid--term Exam
 
 ### March 1st--8th: Spring Break
 
@@ -202,7 +200,7 @@ _How do the courts influence environmental policy? How do they engage with other
 
 ### March 10th--12th: System and Actors: Political Economy and Public Opinion 
 
-_Policy is not made only by siloed institutions, but within a system of mulitple institutions and policy actors. Within the policymaking system, do interest groups influence policy? If so, how? Does public opinion influence policymaking?_ 
+_Policy is not made only by separate institutions, but within a system of multiple institutions and policy actors. Within the policymaking system, do interest groups influence policy? If so, how? Does public opinion influence policymaking?_ 
 
 * Oates, Wallace E. and Paul R. Portney. 2003. ["The Political Economy of Environmental Policy" PDF](https://www.econ.umd.edu/research/papers/360/download/209), __Chapter 8__ in _Handbook of Environmental Economics Volume 1_. eds. Karl-Goran Maler and Jeffrey R. Vincent. __Read pgs. 328--341__. 
 
@@ -224,7 +222,7 @@ _What is the policymaking agenda? How do environmental issues get on the agenda?
 
 _Policy choices are made by multiple policymakers within and across multiple policy subsystems. What are policy subsystems and how is policy made within them? Who participates in policy subsystems?_ 
 
-* McCool, Daniel. 1998. ["The Subsystem Family of Concepts: A Critique and a Proposal."](http://prq.sagepub.com/content/51/2/551.short) _Political Research Quarterly_ 51(2): 551–70.
+* McCool, Daniel. 1998. ["The Subsystem Family of Concepts: A Critique and a Proposal."](http://www.jstor.org/stable/449091?seq=1#page_scan_tab_contents) _Political Research Quarterly_ 51(2): 551–70.
 
 * Ellison, Brian A. 1998. ["The Advocacy Coalition Framework and Implementation of the Endangered Species Act: A Case Study in Western Water Politics."](http://onlinelibrary.wiley.com/doi/10.1111/j.1541-0072.1998.tb01922.x/abstract) _Policy Studies Journal_ 26(1): 11–29.
 
@@ -248,6 +246,8 @@ _What is the role of science in environmental policy? How are risks understood b
 
 * Rosenbaum, Walter A. 2014. "Common Policy Challenges: Risk Assessment and Environmental Justice", __Chapter 4__ in _Environmental Politics and Policy_. CQ Press, Washington D.C. 9th Ed., pgs. 129--159 on [OAKS](https://lms.cofc.edu/)
 
+* Roberts, Leslie. 1990. ["Counting on Science at EPA."](http://www.jstor.org/stable/2877697?seq=1#page_scan_tab_contents) _Science_ 249(4969): 616–18.
+
 * Rosenbaum, Walter A. 2013. "Science, Politics, and Policy at the EPA", __Chapter 7__ in _Environmental Policy: New Directions for the 21st Century_. eds. Michael E. Kraft and Norman J. Vig. CQ Press, Washington D.C. 8th Ed., pgs. 158--187 on [OAKS](https://lms.cofc.edu/)
 
 * Kasperson, Roger E., Ortwin Renn, Paul Slovic, Halina S. Brown, Jacque Emel, Robert Goble, Jeanne X. Kasperson, and Samuel Ratick. 1988. ["The Social Amplification of Risk: A Conceptual Framework."](http://onlinelibrary.wiley.com/doi/10.1111/j.1539-6924.1988.tb01168.x/abstract) _Risk Analysis_ 8(2): 177–87.
@@ -257,6 +257,8 @@ _What is the role of science in environmental policy? How are risks understood b
 ## IV. Environmental Economics 
 
 ### April 14th--16th: Benefit-Cost Analysis 
+
+_What is benefit-cost analysis? How is it used in environmental policymaking?_
 
 * Rosenbaum, Walter A. 2014. "More Choice: The Battle over Regulatory Economics", __Chapter 5__ in _Environmental Politics and Policy_. CQ Press, Washington D.C. 9th Ed., pgs. 165--193 on [OAKS](https://lms.cofc.edu/)
 
@@ -268,6 +270,8 @@ _What is the role of science in environmental policy? How are risks understood b
 
 ### April 21st--23rd: Market-Based Policy Instruments 
 
+_What are market-based policy instruments? How do they differ from command-and-control regulation?_
+
 * Keohane, Nathaniel O. and Shelia M. Olmstead. 2007. "The Efficiency of Markets", __Chapter 4__ in _Markets and the Environment_. Island Press, Washington D.C. pgs. 54--63 on [OAKS](https://lms.cofc.edu/)
 
 * Keohane, Nathaniel O. and Shelia M. Olmstead. 2007. "Market Failures in the Environmental Realm", __Chapter 5__ in _Markets and the Environment_. Island Press, Washington D.C. pgs. 65--81 on [OAKS](https://lms.cofc.edu/)
@@ -275,6 +279,9 @@ _What is the role of science in environmental policy? How are risks understood b
 * Keohane, Nathaniel O. and Shelia M. Olmstead. 2007. "Principles of Market-Based Environmental Policy", __Chapter 8__ in _Markets and the Environment_. Island Press, Washington D.C. pgs. 125--151 on [OAKS](https://lms.cofc.edu/)
 
 * Layzer, Judith A. 2012. "Market-Based Solutions: Acid Rain and the Clean Air Act Amendments of 1990", __Chapter 14__ in _The Environmental Case: Translating Values into Policy_. CQ Press, Washington D.C. 3rd Ed., pgs 414--446 on [OAKS](https://lms.cofc.edu/)
+
+## Center for Student Learning
+I encourage you to utilize the Center for Student Learning’s (CSL) academic support services for assistance in study strategies and course content. They offer tutoring, Supplemental Instruction, study skills appointments, and workshops. Students of all abilities have become more successful using these programs throughout their academic career and the services are available to you at no additional cost. For more information regarding these services please visit the CSL [website](http://csl.cofc.edu) or call (843)953-5635.
 
 ## Students with Disabilities:
 The College will make reasonable accommodations for persons with
