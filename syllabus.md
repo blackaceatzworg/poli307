@@ -158,7 +158,7 @@ _Institutions are defined as the "rules of the game", how do these rules influen
 
 * Kraft, E. Michael. 2013. "Environmental Policy in Congress", __Chapter 5__ in _Environmental Policy: New Directions for the 21st Century_. eds. Michael E. Kraft and Norman J. Vig. CQ Press, Washington D.C. 8th Ed., pgs. 109--134 on [OAKS](https://lms.cofc.edu/)
 
-* Layzer, Judith A. 2012. "The Nation Tackles Pollution: The Environmental Protection Agency and the Clean Air and Clean Water Acts", __Chapter 2__ in _The Environmental Case: Translating Values into Policy_. CQ Press, Washington D.C. 3rd Ed., pgs 28--55 on [OAKS](https://lms.cofc.edu/)
+* Clean Air Act in Congress on [OAKS](https://lms.cofc.edu/)
 
 * [History of the Clean Air Act](http://www.epa.gov/air/caa/amendments.html)
 
