@@ -61,9 +61,9 @@ Points will be distributed as follows:
 
 _Reading Quizzes_: There will be five "pop" reading quizzes throughout the semester. These quizzes will be given in class at random with no prior announcement. They will cover the assigned reading for the week (see the schedule below) and can only be taken in class. __No make-up quizzes will be possible__. 
 
-_Papers_: Papers will be expected to be the equivalent of 3--4 double spaced
+_Papers_: The paper(s) requirement for this course is a detailed policy history or case study about an area of environmental policy. The focus can be at any level of government including local, state, nation, or international. The paper will be split into three separate papers and these papers are expected to be the equivalent of 3--4 double spaced
 pages, with 1" margins, and 12-point Times New Roman font. Because
-the papers are short, I will expect well organized, clear, concise, and professional quality writing. Full and appropriate citations are expected, with any citation style (e.g., MLA, APA, Chicago) you prefer. Consider making use of the [Writing Lab](http://csl.cofc.edu/labs/writing-lab) available on campus. More information about the requirements, including due date, for each paper are under the Assignments tab on the course homepage. Note that paper 3 will include papers 1 and 2. __No late papers will be accepted__. 
+the papers are short, I will expect well organized, clear, concise, and professional quality writing. Full and appropriate citations are expected, with any citation style (e.g., MLA, APA, Chicago) you prefer. Consider making use of the [Writing Lab](http://csl.cofc.edu/labs/writing-lab) available on campus. More information about the requirements, including due date, for each paper are under the Assignments tab on the course homepage. Note that the final paper, paper 3, will include papers 1 and 2. __No late papers will be accepted__. 
 
 _Mid-term_: The mid-term exam will be given on __February 26th__. All material from the readings, lectures, media articles, and in-class discussions are fair game for the mid-term exam.
 
@@ -104,13 +104,13 @@ percentage of __700__.
 
 # Paper Topics 
 
-You are able to choose any topic related to environmental policy that is of interest to you. _Approval from the instructor for your topic is required_ before beginning to work on your papers. Below are some suggested topic areas, however your papers will be about a specific aspect of the broader topic area. Readings about each topic area are posted on [OAKS](https://lms.cofc.edu/). 
+You are able to choose any topic related to environmental policy that is of interest to you. _Approval from the instructor for your topic is required_ before beginning to work on your papers. Below are some _suggested_ topic areas, however your papers will be about a specific aspect of the broader topic area. Readings about each topic area are available below. Other possible environmental policy topics can be found at [CQ Researcher](http://library.cqpress.com/cqresearcher/index.php).  
 
-* Environmental Justice 
-* Natural Resource Management 
-* Toxic and Hazardous Substances 
-* Energy 
-* Natural Disasters
+* [Environmental Justice](http://library.cqpress.com/cqresearcher/document.php?id=cqresrre1998061900&type=hitlist&num=0) 
+* [Natural Resource Management](http://library.cqpress.com/cqresearcher/document.php?id=cqresrre2011110400&type=hitlist&num=0) 
+* [Toxic and Hazardous Substances](http://library.cqpress.com/cqresearcher/document.php?id=cqresrre1996082300&type=hitlist&num=2) 
+* [Energy](http://library.cqpress.com/cqresearcher/document.php?id=cqresrre2011052000&type=hitlist&num=0) 
+* [Natural Disasters](http://library.cqpress.com/cqresearcher/document.php?id=cqresrre2013080200&type=hitlist&num=0)
 
 # Course Outline and Schedule
 
@@ -160,7 +160,9 @@ _Institutions are defined as the "rules of the game", how do these rules influen
 
 * Layzer, Judith A. 2012. "The Nation Tackles Pollution: The Environmental Protection Agency and the Clean Air and Clean Water Acts", __Chapter 2__ in _The Environmental Case: Translating Values into Policy_. CQ Press, Washington D.C. 3rd Ed., pgs 28--55 on [OAKS](https://lms.cofc.edu/)
 
-[History of the Clean Air Act](http://www.epa.gov/air/caa/amendments.html)
+* [History of the Clean Air Act](http://www.epa.gov/air/caa/amendments.html)
+
+* [CQ Researcher: Air Pollution Conflict](http://library.cqpress.com/cqresearcher/document.php?id=cqresrre2003111400&type=hitlist&num=0)
 
 ### Feb 10th--12th: Congress, the President, and the Executive Branch
 
@@ -279,6 +281,8 @@ _What are market-based policy instruments? How do they differ from command-and-c
 * Keohane, Nathaniel O. and Shelia M. Olmstead. 2007. "Principles of Market-Based Environmental Policy", __Chapter 8__ in _Markets and the Environment_. Island Press, Washington D.C. pgs. 125--151 on [OAKS](https://lms.cofc.edu/)
 
 * Layzer, Judith A. 2012. "Market-Based Solutions: Acid Rain and the Clean Air Act Amendments of 1990", __Chapter 14__ in _The Environmental Case: Translating Values into Policy_. CQ Press, Washington D.C. 3rd Ed., pgs 414--446 on [OAKS](https://lms.cofc.edu/)
+
+* [CQ Researcher: Acid Rain: New Approach to Old Problem](http://library.cqpress.com/cqresearcher/document.php?id=cqresrre1991030800)
 
 ## Center for Student Learning
 I encourage you to utilize the Center for Student Learning’s (CSL) academic support services for assistance in study strategies and course content. They offer tutoring, Supplemental Instruction, study skills appointments, and workshops. Students of all abilities have become more successful using these programs throughout their academic career and the services are available to you at no additional cost. For more information regarding these services please visit the CSL [website](http://csl.cofc.edu) or call (843)953-5635.
