@@ -3,13 +3,16 @@ title: Course Overview
 author: POLI 307 Environmental Policy
 ---
 
-## Be Prepared for Class
-
+.left-column[
+# Be Prepared for Class
+]
+.right-column[
 [![_The Paper Chase_ ](http://img.youtube.com/vi/qx22TyCge7w/0.jpg)](http://www.youtube.com/watch?v=qx22TyCge7w)
+]
 
 ---
 
-## Environmental Policy
+# Environmental Policy
 <!-- layzer pg 1 -->
 
 * _Environmental policy conflicts almost always concern fundamental differences in values_
@@ -26,6 +29,8 @@ author: POLI 307 Environmental Policy
 
 ![From _Introduction to the Policy Process_ (Birkland)](policy_defs.jpg)
 
+---
+
 ### Shared Ideas 
 
 * Policy responds to a problem 
@@ -34,6 +39,8 @@ author: POLI 307 Environmental Policy
 * Policies are made by governments
 * Policies are implemented by public and private actors
 * Policy can be action or inaction
+
+---
 
 ### Forms of Policy
 
@@ -44,6 +51,8 @@ author: POLI 307 Environmental Policy
   formal statutes, rules, and regulations; and in the practices of
   administrative agencies and courts charged with implementing or
   overseeing programs_ (Kraft and Vig)
+
+---
 
 ### Making Policy: Institutions 
 
@@ -57,6 +66,8 @@ author: POLI 307 Environmental Policy
         * Coercion: imprison violators 
 
 * _Government institutions provide structure to the process of policymaking_ 
+
+---
 
 ### Making Policy: Major Policy Actors 
 
@@ -92,13 +103,19 @@ author: POLI 307 Environmental Policy
 </body>
 </center>
 
+---
+
 ### Policymaking Process
 
 ![From _Introduction to the Policy Process_ (Birkland)](stages.jpg)
 
+---
+
 ### Policymaking System
 
 ![From _Introduction to the Policy Process_ (Birkland)](system.jpg)
+
+---
 
 ## Clash of Values
 
@@ -108,6 +125,8 @@ author: POLI 307 Environmental Policy
 
 * What other values or worldviews might impact views about the environment?
 
+---
+
 ### Clashes Over Policy
 
 * How do value clashes play out in environmental policy?
@@ -115,6 +134,8 @@ author: POLI 307 Environmental Policy
     * Science 
     * Economics 
     * Risks
+
+[![](http://img.youtube.com/vi/TdaZ5zIWB-M/0.jpg)](http://www.youtube.com/watch?v=TdaZ5zIWB-M)
 
 
 
