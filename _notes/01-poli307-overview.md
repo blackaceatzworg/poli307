@@ -7,6 +7,8 @@ author: POLI 307 Environmental Policy
 
 [![_The Paper Chase_ ](http://img.youtube.com/vi/qx22TyCge7w/0.jpg)](http://www.youtube.com/watch?v=qx22TyCge7w)
 
+---
+
 ## Environmental Policy
 <!-- layzer pg 1 -->
 
@@ -15,6 +17,8 @@ author: POLI 307 Environmental Policy
 * _The way problems are defined and solutions depicted plays a central role in shaping how those values get translated into policies_
 
 * What else might be unqiue about environmental policy? 
+
+---
 
 ## Public Policy
 
@@ -59,8 +63,7 @@ author: POLI 307 Environmental Policy
 * Policy actors: _Those involved in the policymaking process that
   seek to see their preferences for policy enacted_
 
-<br>
-</br>
+<br> </br>
 
 <center>
 <body>
@@ -98,5 +101,22 @@ author: POLI 307 Environmental Policy
 ![From _Introduction to the Policy Process_ (Birkland)](system.jpg)
 
 ## Clash of Values
+
+### What Vaules?
+
+* Environmentalists vs. Cornucopians
+
+* What other values or worldviews might impact views about the environment?
+
+### Clashes Over Policy
+
+* How do value clashes play out in environmental policy?
+    * Defining problems 
+    * Science 
+    * Economics 
+    * Risks
+
+
+
 
 
