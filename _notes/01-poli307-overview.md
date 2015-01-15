@@ -3,23 +3,14 @@ title: Course Overview
 author: POLI 307 Environmental Policy
 ---
 
-.left-column[
-# Be Prepared for Class
-]
-.right-column[
-[![_The Paper Chase_ ](http://img.youtube.com/vi/qx22TyCge7w/0.jpg)](http://www.youtube.com/watch?v=qx22TyCge7w)
-]
-
----
-
 # Environmental Policy
 <!-- layzer pg 1 -->
 
 * _Environmental policy conflicts almost always concern fundamental differences in values_
 
-* _The way problems are defined and solutions depicted plays a central role in shaping how those values get translated into policies_
+* _The way problems are defined and solutions depicted plays a central role in shaping how those values get translated into policies_ 
 
-* What else might be unqiue about environmental policy? 
+* What else might be unique about environmental policy? 
 
 ---
 
@@ -74,8 +65,6 @@ author: POLI 307 Environmental Policy
 * Policy actors: _Those involved in the policymaking process that
   seek to see their preferences for policy enacted_
 
-<br> </br>
-
 <center>
 <body>
 <table border="1">
@@ -119,7 +108,7 @@ author: POLI 307 Environmental Policy
 
 ## Clash of Values
 
-### What Vaules?
+### What Values?
 
 * Environmentalists vs. Cornucopians
 
