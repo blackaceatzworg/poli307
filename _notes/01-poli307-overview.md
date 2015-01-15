@@ -126,6 +126,13 @@ author: POLI 307 Environmental Policy
 
 [![](http://img.youtube.com/vi/TdaZ5zIWB-M/0.jpg)](http://www.youtube.com/watch?v=TdaZ5zIWB-M)
 
+### Next Week
+
+* Slimak, Michael W., and Thomas Dietz. 2006. ["Personal Values, Beliefs, and Ecological Risk Perception."](http://onlinelibrary.wiley.com/doi/10.1111/j.1539-6924.2006.00832.x/full) _Risk Analysis_ 26(6): 1689–1705. 
+
+* Jones, Michael D. 2011. ["Leading the Way to Compromise? Cultural Theory and Climate Change Opinion."](http://dx.doi.org/10.1017/S104909651100134X) _PS: Political Science & Politics_ 44(04): 720–25.
+
+* Kahan, Dan M., Ellen Peters, Maggie Wittlin, Paul Slovic, Lisa Larrimore Ouellette, Donald Braman, and Gregory Mandel. 2012. ["The Polarizing Impact of Science Literacy and Numeracy on Perceived Climate Change Risks."](http://www.nature.com/nclimate/journal/v2/n10/abs/nclimate1547.html) _Nature Climate Change_ 2(10): 732–35. on [OAKS](https://lms.cofc.edu/)
 
 
 
