@@ -114,17 +114,19 @@ author: POLI 307 Environmental Policy
 
 * What other values or worldviews might impact views about the environment?
 
----
-
-### Clashes Over Policy
-
 * How do value clashes play out in environmental policy?
     * Defining problems 
     * Science 
     * Economics 
     * Risks
 
+---
+
+### Clashes Over Policy
+
 [![](http://img.youtube.com/vi/TdaZ5zIWB-M/0.jpg)](http://www.youtube.com/watch?v=TdaZ5zIWB-M)
+
+---
 
 ### Next Week
 
