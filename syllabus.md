@@ -63,7 +63,7 @@ _Reading Quizzes_: There will be five "pop" reading quizzes throughout the semes
 
 _Papers_: The paper(s) requirement for this course is a detailed policy history or case study about an area of environmental policy. The focus can be at any level of government including local, state, nation, or international. The paper will be split into three separate papers and these papers are expected to be the equivalent of 3--4 double spaced
 pages, with 1" margins, and 12-point Times New Roman font. Because
-the papers are short, I will expect well organized, clear, concise, and professional quality writing. Full and appropriate citations are expected, with any citation style (e.g., MLA, APA, Chicago) you prefer. Consider making use of the [Writing Lab](http://csl.cofc.edu/labs/writing-lab) available on campus. More information about the requirements, including due date, for each paper are under the Assignments tab on the course homepage. Note that the final paper, paper 3, will include papers 1 and 2. __No late papers will be accepted__. 
+the papers are short, I will expect well organized, clear, concise, and professional quality writing. Full and appropriate citations are expected, with any citation style (e.g., MLA, APA, Chicago) you prefer. Consider making use of the [Writing Lab](http://csl.cofc.edu/labs/writing-lab) available on campus. More information about the requirements, including due date, for each paper are under the Assignments tab on the course homepage. Note that the final paper, paper 3, will include papers 1 and 2. __No late papers will be accepted__.
 
 _Mid-term_: The mid-term exam will be given on __February 26th__. All material from the readings, lectures, media articles, and in-class discussions are fair game for the mid-term exam.
 
