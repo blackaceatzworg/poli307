@@ -4,7 +4,7 @@ author: POLI 307 Environmental Policy
 date: Spring 2015
 ---
 
-[__Slides__ (PDF)]({{ site.url}}/_notes/04-poli307-ins.pdf)
+[__Slides__ (PDF)]({{ site.url}}/poli307/_notes/04-poli307-ins.pdf)
 
 ## Institutions and Policymaking
 
